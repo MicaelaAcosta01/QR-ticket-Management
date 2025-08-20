@@ -41,18 +41,6 @@ password: 12345<br>
 3. Download and install <a href="https://www.postman.com/downloads//">Postman</a>
 
 
-### Installation
-
-First clone the repository with the following commands:
-
-```shell
-git clone https://github.com/parduccinward/qr-ticket-management-system.git
-cd qr-ticket-management-system/
-code .
-```
-
-Then start the application by installing npm on both the project root folder and the frontend folder, using the following commands:
-
 #### Backend Start
 
 ```shell
